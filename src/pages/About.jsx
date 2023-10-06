@@ -20,7 +20,7 @@ export default function About() {
         <Title
           txt="Whats Been Used"
           style="neutral_title "
-          icon=<HiMiniQueueList className="mr-2" />
+          icon={<HiMiniQueueList className="mr-2" />}
         />
 
         <ul className="space-y-3 w-full">
